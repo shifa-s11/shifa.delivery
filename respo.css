@@ -1,0 +1,29 @@
+@media(max-width:940px){
+    /* Navigation */
+
+    /* Service Sec */
+    .main main{
+        display: flex;
+        flex-direction: column;
+        margin: 0px 155px;
+    
+    }
+    .navbar{
+        display:flex;
+        flex-direction: column;
+        height: 20%;
+        gap: 10px;
+    }
+    .navbar img{
+        height: 40%;
+    }
+    .navbar h1{
+        font-size: 1rem;
+    }
+   
+        
+    
+
+
+}
+    
